@@ -1,0 +1,4 @@
+GT4500,1,0,2,0 #unbalanced torpedos will be loaded
+TORPEDO,ALL # both
+TORPEDO,ALL # only secondary will fire
+TORPEDO,ALL # both empty

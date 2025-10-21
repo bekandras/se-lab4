@@ -1,0 +1,4 @@
+SUCCESS #create GT4500
+SUCCESS #both
+SUCCESS #only secondary
+FAIL # both needs to be empty
